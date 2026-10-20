@@ -12,7 +12,7 @@ checkpoint_callback = CheckpointCallback(
     name_prefix="humanoid_ppo_chkpt",
 )
 
-# 3. 2족 보행 전용 PPO 알고리즘 생성
+# 3. 2족 보행 PPO 알고리즘 생성
 model = PPO(
     "MlpPolicy",
     env,
