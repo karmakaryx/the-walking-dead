@@ -8,14 +8,12 @@
 <br>
 
 [영상이 보이지 않는 경우 다운로드 링크 (/assets/humanoid_model_v1.mp4)](./assets/humanoid_model_v1.mp4)
-<video src="https://github.com/user-attachments/assets/abe50e18-b7f0-49a7-ab97-fbbcece478ab" width="50%" controls autoplay muted loop>
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/abe50e18-b7f0-49a7-ab97-fbbcece478ab
 
 [영상이 보이지 않는 경우 다운로드 링크 (/assets/humanoid_model_v2.mp4)](./assets/humanoid_model_v2.mp4)
-<video src="https://github.com/user-attachments/assets/746315c7-7723-4d7b-958f-a06838c02400" width="50%" controls autoplay muted loop>
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/746315c7-7723-4d7b-958f-a06838c02400
 
 ---
 
