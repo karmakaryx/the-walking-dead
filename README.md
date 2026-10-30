@@ -17,8 +17,7 @@ https://github.com/user-attachments/assets/746315c7-7723-4d7b-958f-a06838c02400
 
 ---
 
-### 💻 Environment
-#### 1. CartPole (2026-06-24)
+### 1. CartPole (2026-06-24)
 - Intel Mac 기준, torch 버전은 환경에 따라 조정 필요
 - macOS Sonoma
 - Python 3.11
@@ -30,7 +29,9 @@ pip install "gymnasium[classic-control]" torch tensorboard
 ![tensorboard1](./assets/tensorboard1.png)
 ![tensorboard2](./assets/tensorboard2.png)
 
-#### 2. Humanoid V1 (2026-06-28)
+---
+
+### 2. Humanoid V1 (2026-06-28)
 - Intel Mac으로 실행 시도했으나 학습 시간이 너무 오래 걸려 Kaggle Notebook으로 전환
 - Kaggle Notebook (GPU T4 x2)
 - OS: Linux-6.12.90+-x86_64-with-glibc2.35
@@ -74,7 +75,9 @@ pip install "gymnasium[classic-control]" torch tensorboard
 
 <img src="./assets/humanoid.png" width="50%" alt="humanoid"/>
 
-#### 3. Humanoid V2: VecNormalize 적용 (2026-10-19)
+---
+
+### 3. Humanoid V2: VecNormalize 적용 (2026-10-19)
 - Kaggle Notebook (4-Core CPU)
 - OS: Linux-6.18.48+-x86_64-with-glibc2.39
 - Python: 3.13.15
